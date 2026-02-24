@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../0212_sr04_r.srcs/sources_1/imports/new/btn_debounce.v" \
+"../../../../0212_sr04_r.srcs/sources_1/new/sr04_top.v" \
+"../../../../0212_sr04_r.srcs/sim_1/new/tb_sr04_controller.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

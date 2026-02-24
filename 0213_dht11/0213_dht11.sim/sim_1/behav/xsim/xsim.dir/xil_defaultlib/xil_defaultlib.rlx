@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/yunsuhyun/0213_dht11/0213_dht11.gen/sources_1/ip/ila_0/sim/ila_0.v,1771477839,verilog,,C:/yunsuhyun/0213_dht11/0213_dht11.srcs/sources_1/new/dht11_controller.v,,ila_0,,,,,,,,
+C:/yunsuhyun/0213_dht11/0213_dht11.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/yunsuhyun/0213_dht11/0213_dht11.srcs/sim_1/new/tb_dh11.v,1771554103,verilog,,,,tb_dh11,,,,,,,,
+C:/yunsuhyun/0213_dht11/0213_dht11.srcs/sources_1/new/dht11_controller.v,1771572008,verilog,,C:/yunsuhyun/0213_dht11/0213_dht11.srcs/sim_1/new/tb_dh11.v,,bcd_fnd_data;bcd_fnd_digit;btn_debounce_dht11;dht11_controller;dht11_fnd;splitter_mux;tick_counter;tick_gen_10u;top_dht11,,,,,,,,

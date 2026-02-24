@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/yunsuhyun/0212_sr04_r/0212_sr04_r.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/yunsuhyun/0212_sr04_r/0212_sr04_r.srcs/sim_1/new/tb_sr04_controller.v,1770971386,verilog,,,,tb_sr04_controller,,,,,,,,
+C:/yunsuhyun/0212_sr04_r/0212_sr04_r.srcs/sources_1/imports/new/btn_debounce.v,1770969331,verilog,,C:/yunsuhyun/0212_sr04_r/0212_sr04_r.srcs/sources_1/new/sr04_top.v,,btn_debounce,,,,,,,,
+C:/yunsuhyun/0212_sr04_r/0212_sr04_r.srcs/sources_1/new/sr04_top.v,1770969354,verilog,,C:/yunsuhyun/0212_sr04_r/0212_sr04_r.srcs/sim_1/new/tb_sr04_controller.v,,bcd_fnd_data;bcd_fnd_digit;splitter_mux;sr04_controller;sr04_fnd;sr04_top;tick_counter;tick_gen,,,,,,,,

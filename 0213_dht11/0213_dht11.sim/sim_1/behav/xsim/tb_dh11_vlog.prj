@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../0213_dht11.gen/sources_1/ip/ila_0/sim/ila_0.v" \
+"../../../../0213_dht11.srcs/sources_1/new/dht11_controller.v" \
+"../../../../0213_dht11.srcs/sim_1/new/tb_dh11.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

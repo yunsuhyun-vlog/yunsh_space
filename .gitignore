@@ -1,0 +1,7 @@
+*.jou
+*.log
+*.pb
+*.wdb
+*.vcd
+*.str
+.Xil/
